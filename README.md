@@ -8,4 +8,4 @@ This is a completed bootcamp challenge where I was given the task of simulating 
 
 Link to the completed project repository can be found here --> https://github.com/Rilwan0410/codeRefactorChallenge
 
-Link to the deployed website can be found here --> 
+Link to the deployed website can be found here --> https://rilwan0410.github.io/codeRefactorChallenge/
